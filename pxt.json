@@ -1,0 +1,22 @@
+{
+    "name": "radio",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "smarttools": "github:51bit/smarttools#v0.3.3"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
